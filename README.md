@@ -1,5 +1,5 @@
 # bds02
-Project SpringBoot, implements the endpoints below:
+Project SpringBoot, implements the endpoints below and tests passing:
 - GET {url}/cities/[id]
 - POST {url}/cities/
 - DELETE {url}/cities/[id]
